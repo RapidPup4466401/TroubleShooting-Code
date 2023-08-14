@@ -1,1 +1,1 @@
-# test-tile
+This repo is entirely designated to the testing and troubleshooting of code. Most code that enters this repo is not mine and so in no way am I attempting to take ownership of code from others through this process. I will repeat, this repo is purposed for testing and troubleshooting purposes to find issues with code for Unciv modding.
