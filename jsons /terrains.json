@@ -3,5 +3,10 @@
     "name": "Mars tile",
     "type": "Land",
     "movementCost": 2,
+  },
+  {
+  	"name": "Deep Ocean",
+		"type": "Water",
+		"movementCost": 1,
   }
 ]
