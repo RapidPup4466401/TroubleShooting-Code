@@ -1,1 +1,1 @@
-
+Most code that enters this repo does not belong to me as this repo serves as a testing ground to assist me and others in troubleshooting code to find issues. I in no way claim ownership of other's code.
